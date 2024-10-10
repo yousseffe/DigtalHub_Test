@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DigtalHub_Test/static/css/main.44795ba8.css",
-    "main.js": "/DigtalHub_Test/static/js/main.1b0ba4fd.js",
+    "main.js": "/DigtalHub_Test/static/js/main.90698f72.js",
     "static/js/453.b17de201.chunk.js": "/DigtalHub_Test/static/js/453.b17de201.chunk.js",
     "index.html": "/DigtalHub_Test/index.html",
     "main.44795ba8.css.map": "/DigtalHub_Test/static/css/main.44795ba8.css.map",
-    "main.1b0ba4fd.js.map": "/DigtalHub_Test/static/js/main.1b0ba4fd.js.map",
+    "main.90698f72.js.map": "/DigtalHub_Test/static/js/main.90698f72.js.map",
     "453.b17de201.chunk.js.map": "/DigtalHub_Test/static/js/453.b17de201.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44795ba8.css",
-    "static/js/main.1b0ba4fd.js"
+    "static/js/main.90698f72.js"
   ]
 }
